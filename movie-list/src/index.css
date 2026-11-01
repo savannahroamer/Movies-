@@ -1,0 +1,16 @@
+.movie-app {
+  max-width: 600px;
+}
+
+/* Size of the star and delete icons */
+.star,
+.delete-movie-icon {
+  width: 20px;
+  height: 20px;
+}
+
+/* Show a hand when hovering the delete icon */
+.delete-movie-icon {
+  cursor: pointer;
+  margin-left: 8px;
+}
